@@ -19,9 +19,9 @@ Designed for compatibility with standard i18n tools and workflows (such as JSON,
 ## Repository Structure
 
 ```
-├── bg_BG/          # Bulgarian translations
-├── en_US/          # English (US) translations
-├── es_ES/          # Spanish (Spain) translations
+├── bg_BG/LC_MESSAGES/          # Bulgarian translations
+├── en_US/LC_MESSAGES/          # English (US) translations
+├── es_ES/LC_MESSAGES/          # Spanish (Spain) translations
 └── ...             # Other language folders
 ```
 
