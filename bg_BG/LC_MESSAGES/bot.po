@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 17:01+0530\n"
+"PO-Revision-Date: 2025-07-20 20:56+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Bongo\n"
+"Language: bot\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"X-Loco-Source-Locale: bg_BG\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: bot.py:190
+msgid "{command} command is disabled in this server. "
+msgstr "Командата {command} е деактивирана в този сървър."
+
+#: bot.py:191
+msgid "Type `{prefix}enable {command}` to enable this command"
+msgstr "Напишете `{prefix}enable {category}` за да активирате тази команда."
+
+#: bot.py:198
+msgid "{category} category is disabled in this server. "
+msgstr "Категорията {category} е деактивирана в този сървър."
+
+#: bot.py:199
+msgid "Type `{prefix}enable {category}` to enable this command "
+msgstr "Напишете `{prefix}enable {category}` за да активирате тази категория."
+
+#: bot.py:215 bot.py:231
+msgid "{author}, You have been **Blacklisted from Roku for spamming a lot**. "
+msgstr "[author], Вие бяхте добавени в **Черният списък на Року за прекалено много "
+"спамене**."
+
+# adds extra context in translation, becomes "please appeal your addition to the blacklist in  {support_server}"
+#: bot.py:216 bot.py:232
+msgid "Please appeal at {support_server}"
+msgstr "Моля апелирайте добавянето Ви към черният списък във {support_server}."
+
+#: bot.py:238
+msgid ""
+"Slowdown!! You are being ratelimited. If u keep on spamming, you might get "
+"banned from the bot!"
+msgstr ""
+"Забавете темпото !! Скоростта Ви се ограничава. Ако продължите да спамите, "
+"достъпа Ви до бота може да бъде ограничен!"

@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-13 18:32+0530\n"
+"PO-Revision-Date: 2025-07-20 22:35+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"X-Loco-Source-Locale: bg_BG\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cogs/util/__init__.py:27
+msgid "Some useful commands that don't fit elsewhere. For eg Google, anime etc"
+msgstr ""
+"Някои полезни команди, които не принадлежат другаде. Например Google, аниме "
+"и др."
+
+#: cogs/util/__init__.py:56
+msgid "Took so long. Can't wait for you any longer, Aborting... "
+msgstr "Отне Ви прекалено много. Не мога да чакам вече, Абортирам..."
+
+#: cogs/util/__init__.py:82
+msgid "Search queries from Google"
+msgstr "Извършете търсене в Google"
+
+#: cogs/util/__init__.py:86
+msgid "No results found for this query!"
+msgstr "Няма намерени резултати за това запитване! "
+
+#: cogs/util/__init__.py:88
+msgid "Internal Error Occured, Come again later"
+msgstr "Възникна Вътрешна Грешка, Опитайте отново по-късно"
+
+#: cogs/util/__init__.py:95
+msgid "Search a page from wikipedia."
+msgstr "Потърсете страница в от Уйкипедия"
+
+#: cogs/util/__init__.py:99
+msgid "No Pages Found"
+msgstr "Не Бяха Намерени Страници"
+
+#: cogs/util/__init__.py:108
+msgid "Takes the screenshot of the website"
+msgstr "Прави екранна снимка на уебсайта."
+
+#: cogs/util/__init__.py:120
+msgid "Anime quotes"
+msgstr "Аниме цитати"
+
+#: cogs/util/__init__.py:130
+msgid ""
+"Get Animal Pics.\n"
+"        Bring Random Animal If name is not Provided"
+msgstr ""
+"Получавате снимки на животни.\n"
+"Донася произволно животно, ако не е Предоставено име."
+
+#: cogs/util/__init__.py:142
+msgid ""
+"A todo list.\n"
+"        Helps in keeping tracking of things to do"
+msgstr ""
+"Списък със задачи.\n"
+"Помага в следенето на задачите."
+
+#: cogs/util/__init__.py:152
+msgid "No tasks found. "
+msgstr "Няма намерени задачи."
+
+#: cogs/util/__init__.py:153
+msgid "Add a task by `{prefix}todo add`. "
+msgstr "Добавете задача като напишете `{prefix}todo add`. "
+
+#: cogs/util/__init__.py:154 cogs/util/__init__.py:170
+msgid "For more help on this command,type `{prefix}help todo`"
+msgstr "За повече помощ относно тази команда, въведете `{prefix}help todo`"
+
+#: cogs/util/__init__.py:163
+msgid ""
+"A todo list.\n"
+"        Helps in keeping tracks of tasks or things to do."
+msgstr ""
+"Списък със задачи.\n"
+"Помага в следенето на задания или други неща за вършене."
+
+#: cogs/util/__init__.py:169
+msgid "No tasks found. Add a task by `{prefix}todo add`. "
+msgstr "Няма намерени задачи. Добавете задача чрез `{prefix}todo add"
+
+#: cogs/util/__init__.py:178
+msgid "Add tasks to todo list"
+msgstr "Добавете задачи към списъка Ви със задачи."
+
+#: cogs/util/__init__.py:184
+msgid "{tick} Added the task to todo list"
+msgstr "{tick} Добавих задачата към списъка със задачи."
+
+#: cogs/util/__init__.py:188
+msgid "Add things to todo list"
+msgstr "Добавете неща към списъка Ви със задачи."
+
+#: cogs/util/__init__.py:195
+msgid "You can only add 20 tasks in todo. "
+msgstr "Можете да добавите само 20 задачи в списъка със задачи."
+
+#: cogs/util/__init__.py:196
+msgid "You need to be a **premium user** to add more things"
+msgstr "Трябва да сте **премиум потребител**, за да добавяте още неща"
+
+#: cogs/util/__init__.py:198
+msgid "**Iron Patreon** - upto 100 todo things"
+msgstr "**Железен Patreon**  - До 100 задачи за добавяне"
+
+#: cogs/util/__init__.py:200 cogs/util/__init__.py:216
+msgid "**Bronze Patreon** - upto 200 todo things"
+msgstr "**Бронзов Patreon** - До 200 задачи за добавяне"
+
+#: cogs/util/__init__.py:202
+msgid "**Silver Patreon** - upto 300 todo things"
+msgstr "**Сребърен Patreon** - До 300 задачи за добавяне"
+
+#: cogs/util/__init__.py:204
+msgid "**Gold Patreon** - upto 400 todo things"
+msgstr "**Златен Patreon** - До 400 задачи за добавяне"
+
+#: cogs/util/__init__.py:206
+msgid "**Platinum Patreon** - unlimited todo things"
+msgstr "**Платинен Patreon** -  Неограничен брой задачи за добавяне"
+
+#: cogs/util/__init__.py:208 cogs/util/__init__.py:222 
+#: cogs/util/__init__.py:234
+msgid "https://ko-fi.com/rokubot"
+msgstr ""
+
+#: cogs/util/__init__.py:213 cogs/util/__init__.py:227 
+#: cogs/util/__init__.py:239
+msgid "You can't add more things in todo. "
+msgstr "Не можете да добавите повече неща в списъка със задачи."
+
+#: cogs/util/__init__.py:214 cogs/util/__init__.py:228 
+#: cogs/util/__init__.py:240
+msgid "You need to have a higher premium subscription to add more things"
+msgstr "Трябва да имате по-висок премиум абонамент, за да добавите още неща"
+
+#: cogs/util/__init__.py:218 cogs/util/__init__.py:230
+msgid "**Gold Patreon** - upto 300 todo things"
+msgstr "**Златен Patreon** - До 300 задачи за добавяне"
+
+#: cogs/util/__init__.py:220 cogs/util/__init__.py:232 
+#: cogs/util/__init__.py:242
+msgid "**Diamond Patreon** - unlimited todo things"
+msgstr "**Диамантен Patreon** - Неограничени задачи за добавяне"
+
+#: cogs/util/__init__.py:244
+msgid "https://patreon.com/rokubot"
+msgstr ""
+
+#: cogs/util/__init__.py:248
+msgid "{config.tick} Added the task to todo list "
+msgstr "{config.tick} Добавих задачата към списъка със задачи."
+
+#: cogs/util/__init__.py:252
+msgid "Remove things from todo list"
+msgstr "Премахни неща от списъка със задачи."
+
+#: cogs/util/__init__.py:259
+msgid "You don't have any things in todo"
+msgstr "Нямате никакви неща в списъка Ви със задачи."
+
+#: cogs/util/__init__.py:262
+msgid "{tick} Removed the task from todo list "
+msgstr "{tick} Премахнах задачата от списъка със задачи"
+
+#: cogs/util/__init__.py:269
+msgid "{tick} cleared the task from todo list "
+msgstr "{tick} изчистих задачата от списъка със задачи "
+
+#: cogs/util/__init__.py:279
+msgid "An error occurred: {status} {reason}"
+msgstr "Възникна грешка: {status} {reason}"
+
+#: cogs/util/__init__.py:289
+msgid ""
+"Brings Specified Subreddits.\n"
+"        Nsfw Subreddits Only works in NSFW Channels"
+msgstr ""
+"Показва определени Subreddits.\n"
+"Като NSFW Subreddits работи само в NSFW канали."
+
+#: cogs/util/__init__.py:303
+msgid "No posts found with the given subreddit"
+msgstr "Не са намерени публикации за този subreddit"
+
+#: cogs/util/__init__.py:313
+msgid "{:,.0f}% Upvotes | Posted to r/{subreddit}"
+msgstr "{:,.0f}% Гласове ЗА | Публикувано в r/{subreddit}"
+
+#: cogs/util/__init__.py:323
+msgid ""
+"Add, Subract, Multiply and Divide Numbers.\n"
+"        Usage examples:\n"
+"        1. Addition - `Ro calc 3 + 5`\n"
+"        2. subraction - `Ro calc 5 - 3`\n"
+"        3. Multiplication - `Ro calc 3 x 5` or `Ro calc 3*5`\n"
+"        4. Division - `Ro calc 20 / 5`or `Ro calc 0 ÷ 5`"
+msgstr ""
+"Събиране, Изваждане, Умножение и Деление на числа.\n"
+"Примери за употреба:\n"
+"\n"
+"1. Събиране - `Ro calc 3 + 5`\n"
+"\n"
+"2. Изваждане - `Ro calc 5 - 3`\n"
+"\n"
+"3. Умножение - `Ro calc 3 x 5` или `Ro calc 3*5`\n"
+"\n"
+"4. Деление - `Ro calc 20 / 5` или `Ro calc 0 ÷ 5`"
+
+#: cogs/util/__init__.py:337
+msgid "Invalid expressions was given, please try again."
+msgstr "Бяха дадени невалидни изрази, моля опитайте отново."
+
+#: cogs/util/__init__.py:340
+msgid "Powers are not supported."
+msgstr "Сили не са поддържани"
+
+#: cogs/util/__init__.py:346
+msgid "It's Basic Maths lol! You can't divide any number with 0."
+msgstr "Това е елементарна математика, хаха! Никое число не се дели на 0."
+
+#: cogs/util/__init__.py:348
+msgid "This operation breaks my memory"
+msgstr "Тази операция чупи паметта ми."
+
+#: cogs/util/__init__.py:351
+msgid ""
+"What's this question lol? please check `{prefix}help math` to see how to use "
+"this command."
+msgstr ""
+"Хаха, какъв е този въпрос,? Моля, вижте `{prefix}help math`, за да разберете "
+"как да използвате тази команда правилно."
+
+#: cogs/util/__init__.py:366
+msgid ""
+"Invalid expressions was given, please check `{prefix}help math` to see how "
+"to use this command."
+msgstr ""
+"Бяха дадени невалидни изрази. Моля, вижте `{prefix}help math`, за да видите "
+"как да използвате тази команда."
+
+#: cogs/util/__init__.py:374
+msgid "Shows colorinfo from given name or hex"
+msgstr "Показва информация за цвят от дадено име или ХЕКС код."
+
+#: cogs/util/__init__.py:387
+msgid "Creates QR Code from the given text"
+msgstr "Създава QR код от подаденият текст."
+
+#: cogs/util/__init__.py:393
+msgid "Gives info on the given anime"
+msgstr "Предоставя информация относно споменатото аниме"
+
+#: cogs/util/__init__.py:397
+msgid "Error Occured : {reason}"
+msgstr "Стана Грешка : {reason}"
+
+#: cogs/util/__init__.py:400
+msgid "No Anime found with the given name"
+msgstr "Не беше намерено Аниме с това име."
+
+#: cogs/util/__init__.py:408
+msgid "Searches urban dictionary."
+msgstr "Преглежда urban речника"
+
+#: cogs/util/__init__.py:417
+msgid "No results found, sorry."
+msgstr "Съжалявам, но няма намерени резултати. "
+
+#: cogs/util/__init__.py:426
+msgid ""
+"Interactively creates a poll with the following question.\n"
+"        To vote, use reactions!\n"
+"        "
+msgstr ""
+"Интерактивно създава анкета със следния въпрос.\n"
+"За да гласувате, използвайте реакции!"
+
+#: cogs/util/__init__.py:436 cogs/util/__init__.py:506
+msgid "Need Read Message History and Add Reactions permissions."
+msgstr ""
+"Необходими са разрешения за Четене на Историята на Съобщенията и Добавяне на "
+"Реакции."
+
+#: cogs/util/__init__.py:442
+msgid "Say poll option or {prefix}done to publish poll."
+msgstr ""
+"Кажете анкетна опция или напишете {prefix}done за да публикувате анкетата."
+
+#: cogs/util/__init__.py:451
+msgid "{prefix}done"
+msgstr "{prefix}готово"
+
+#: cogs/util/__init__.py:474
+msgid "Add emotes (custom emoji) to your server"
+msgstr "Добавете емотикони (персонализирани емотикони) към Вашия сървър."
+
+#: cogs/util/__init__.py:483
+msgid "Could not download file..."
+msgstr "Файлът не можа да бъде изтеглен..."
+
+#: cogs/util/__init__.py:487
+msgid ""
+"**__Emoji Added__** \n"
+"Name: {name} \n"
+"ID: {eid}"
+msgstr ""
+"**__Емоджи Добавено__** \n"
+"Име: {name} \n"
+"ID: {eid}"
+
+#: cogs/util/__init__.py:494
+msgid ""
+"Makes a poll quickly.\n"
+"        The first argument is the question and the rest are the choices.\n"
+"        "
+msgstr ""
+"Бързо прави анкета.\n"
+"Първият аргумент е въпросът, а останалите са вариантите за отговор."
+
+#: cogs/util/__init__.py:500
+msgid "Need at least 1 question with 2 choices."
+msgstr "Нужен е поне 1 въпрос с 2 избора."
+
+#: cogs/util/__init__.py:502
+msgid "You can only have up to 20 choices."
+msgstr "Можете да имате само до 20 избора."
+
+#: cogs/util/__init__.py:524
+msgid "Custom Embed"
+msgstr "Персонализиран Embed"
+
+#: cogs/util/__init__.py:531
+msgid "Creates embed from json embed."
+msgstr "Създава embed от json embed."
+
+#: cogs/util/__init__.py:539
+msgid "No embed found!"
+msgstr "Не беше намерен embed!"
+
+#: cogs/util/__init__.py:546
+msgid "Create a Custom Embed in an interactive way."
+msgstr "Създайте Персонализиран Embed по интерактивен начин."
+
+#: cogs/util/__init__.py:549 cogs/util/__init__.py:628
+msgid "Type `quit` to quit without making an embed."
+msgstr "Въведете „излез“, за да излезете без да сте направили embed."
+
+# i was unsure if i should change the done. reverse if necessery= same goes for the rest of where similar circumstances exist
+#: cogs/util/__init__.py:550 cogs/util/__init__.py:629
+msgid "Type `done` to complete."
+msgstr "Напишете  `готово` за да завършите."
+
+#: cogs/util/__init__.py:551 cogs/util/__init__.py:630
+msgid "Type `skip` to skip."
+msgstr "Въведете „пропусни“, за да пропуснете."
+
+#: cogs/util/__init__.py:553 cogs/util/__init__.py:634
+msgid "title"
+msgstr "заглавие"
+
+#: cogs/util/__init__.py:554 cogs/util/__init__.py:635
+msgid "description"
+msgstr "описание"
+
+#: cogs/util/__init__.py:555 cogs/util/__init__.py:636
+msgid "color"
+msgstr "цвят"
+
+#: cogs/util/__init__.py:556 cogs/util/__init__.py:637
+msgid "image"
+msgstr "изображение"
+
+# theres no good translation for this, so I used cyrillicized style
+#: cogs/util/__init__.py:557 cogs/util/__init__.py:638
+msgid "thumbnail"
+msgstr "тъмбнейл"
+
+#: cogs/util/__init__.py:558 cogs/util/__init__.py:639
+msgid "footer"
+msgstr "долен колонтитул"
+
+#: cogs/util/__init__.py:559 cogs/util/__init__.py:640
+msgid "footer icon"
+msgstr "икона на долен колонтитул"
+
+#: cogs/util/__init__.py:560 cogs/util/__init__.py:641
+msgid "author"
+msgstr "автор"
+
+#: cogs/util/__init__.py:561 cogs/util/__init__.py:642
+msgid "author icon"
+msgstr "икона на автора "
+
+#: cogs/util/__init__.py:568
+msgid ""
+"What would you like the **Embed's {property}** to be? \n"
+"\n"
+"{done}\n"
+"{quit}\n"
+"{skip}"
+msgstr ""
+"Какво бихте искали да бъде ** {property}** в **Embed-а**?\n"
+"\n"
+"{done}\n"
+"{quit}\n"
+"{skip}"
+
+#: cogs/util/__init__.py:575
+msgid "quit"
+msgstr "напусни"
+
+#: cogs/util/__init__.py:580 cogs/util/__init__.py:661
+msgid "OK Aborting...."
+msgstr "ОК Абортирам..."
+
+#: cogs/util/__init__.py:581 cogs/util/__init__.py:663
+msgid "skip"
+msgstr "пропусни"
+
+#: cogs/util/__init__.py:583 cogs/util/__init__.py:665
+msgid "done"
+msgstr "готово"
+
+#: cogs/util/__init__.py:590 cogs/util/__init__.py:674
+msgid "Color **{color}** is an invalid color or hex."
+msgstr "Цветът **{color}** е невалиден цвят или ХЕКС код."
+
+#: cogs/util/__init__.py:599 cogs/util/__init__.py:683
+msgid "You have provided invalid image link."
+msgstr "Вие сте посочили невалидна врезка за изображение."
+
+#: cogs/util/__init__.py:618
+msgid "Edit the embed created by the bot."
+msgstr "Редактирайте embed-а създаден от бота."
+
+#: cogs/util/__init__.py:621
+msgid "That message doesn't have an embed"
+msgstr "Това съобщение няма embed."
+
+#: cogs/util/__init__.py:631
+msgid "Type `none` to leave something empty"
+msgstr "Напишете `няма` за да оставите нещо празно. "
+
+#: cogs/util/__init__.py:649
+msgid "What would you like the **Embed's {property}** to be? \n"
+"\n"
+"{done}\n"
+"{quit}\n"
+"{skip}\n"
+"{none}"
+msgstr "Какво бихте искали да бъде ** {property}** на **Embed-а**?\n"
+"\n"
+"{done}\n"
+"{quit}\n"
+"{skip}\n"
+"{none}"
+
+#: cogs/util/__init__.py:667
+msgid "none"
+msgstr "няма"
