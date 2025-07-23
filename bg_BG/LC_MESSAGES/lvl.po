@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-13 15:39+0530\n"
+"PO-Revision-Date: 2025-07-23 17:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Unknown\n"
+"Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"X-Loco-Source-Locale: bg_BG\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cogs/lvl/__init__.py:21
+msgid ""
+"Reward members for talking with xp and even give roles at milestones\n"
+"    **To enable leveling, use `ro enable leveling` command.**\n"
+"    "
+msgstr ""
+"Награждавайте членовете докато си приказват с XP и дори им давайте роли при "
+"достигане на етапи.\n"
+"**За да активирате системата с нивата, използвайте командата `ro enable "
+"leveling`.**"
+
+#: cogs/lvl/__init__.py:72
+msgid "**Sorry,** Only **Server Owner** can run this command"
+msgstr ""
+"**Съжалявам.** Само **Собственикът на този сървър** може да ползва тази "
+"команда"
+
+#: cogs/lvl/__init__.py:78
+msgid ""
+"\n"
+"        `{mention}` - To mention(ping) the user.\n"
+"        __Example__ {.mention}\n"
+"\n"
+"        `{user}` - Name of the user.\n"
+"        __Example__ {.user}\n"
+"\n"
+"        `{username}` Username of the user.\n"
+"        __Example:__ {.username}\n"
+"\n"
+"        `{userid}` - UserID of the user.\n"
+"        __Example:__ {.id}\n"
+"\n"
+"        `{level}` - Level of the user.\n"
+"        __Example:__ 23\n"
+"\n"
+"        `{avatar}` - Avatar of the user.\n"
+"\n"
+"        `{role.name}` - The name of the role you're giving to the user (This "
+"only works for reward messages)\n"
+"        __Example:__ @lovely-role\n"
+"          \n"
+"        `{role.mention}` - The mention (ping) of the role you're giving to "
+"the user  (This only works for reward messages)\n"
+"        __Example:__ @lovely-role\n"
+"          \n"
+"        `{role.id}` - The ID of the role you're giving to the user  (This "
+"only works for reward messages)\n"
+"        __Example:__ 1310856420320612392\n"
+"\n"
+"        "
+msgstr ""
+"  `{mention}` - За да споменете (тагнете) потребителя.\n"
+"        __Например__ {.mention}\n"
+"\n"
+"        `{user}` - Името на потребителя.\n"
+"        __Например__ {.user}\n"
+"\n"
+"        `{username}` - Потребителското име на потребителя.\n"
+"        __Например:__ {.username}\n"
+"\n"
+"        `{userid}` - ID-то на потребителя.\n"
+"        __Примерно:__ {.id}\n"
+"\n"
+"        `{level}` - Нивото на потребителя.\n"
+"        __Например:__ 23-то\n"
+"\n"
+"        `{avatar}` - Профилната снимка на потребителя.\n"
+"\n"
+"        `{role.name}` - Името на ролята, която давате на потребителя. (Това "
+"работи само за съобщения с награди)\n"
+"        __Например:__ @lovely-role\n"
+"          \n"
+"        `{role.mention}` - Ролята, която давате на потребителите но тагната. "
+" (Това работи само за съобщения с награди)\n"
+"        __Например:__ @lovely-role\n"
+"          \n"
+"        `{role.id}` - ID-то на ролята, която давате на потребителя. (Това "
+"работи само за съобщения с награди)\n"
+"        __Примерно:__ 131085642020612392\n"
+
+#: cogs/lvl/__init__.py:184
+msgid "Auto Level Roles - {lvl}"
+msgstr "Автоматични Роли към Ниво - {lvl}"
+
+#: cogs/lvl/__init__.py:201
+msgid "Auto Level Role - Replace old roles"
+msgstr "Автоматично Ниво към Роля - Заменя старите роли"
+
+#: cogs/lvl/__init__.py:215
+msgid "**{username}** has leveled up to level {new_lvl}"
+msgstr "**{username}** покачи нивото си до ниво {new_lvl}"
+
+#: cogs/lvl/__init__.py:245
+msgid "You have been given <@&{role_id}> since you have reached level {lvl}"
+msgstr "Беше Ви дадена ролята <@&{role_id}> понеже достигнахте до ниво {lvl}"
+
+#: cogs/lvl/__init__.py:275
+msgid "Leveling commands cannot be used in DMs"
+msgstr "Командите за Нива не могат да бъдат използвани в ЛС."
+
+#: cogs/lvl/__init__.py:336
+msgid ""
+"Shows the server level, xp and rank of mentioned member\n"
+"        If member is not mentioned, shows authors level, rank and xp."
+msgstr ""
+"Показва нивото на сървъра, опит и ранг на споменатия потребител. \n"
+"Ако потребител не е споменат, показва нивото, ранга и опитът на автора (Вас)."
+
+#: cogs/lvl/__init__.py:359
+msgid "Shows server level (rank) leaderboard"
+msgstr "Показва класацията на сървъра за нива (ранг)"
+
+#: cogs/lvl/__init__.py:363
+msgid "<a:blloading:731862370380546069> loading"
+msgstr "<a:blloading:731862370380546069> зарежда се"
+
+#: cogs/lvl/__init__.py:394
+msgid "Set where I should send leveling messages"
+msgstr "Задайте къде да изпращам съобщения по случай покачване на нивото "
+
+#: cogs/lvl/__init__.py:400
+msgid "I don't have enough permissions to send message in that channel. "
+msgstr "Нямам нужният достъп да изпращам съобщения в този канал."
+
+#: cogs/lvl/__init__.py:401
+msgid "I require atleast `Send Messages`, `Embed Links` Permissions"
+msgstr ""
+"Нуждая се поне от разрешения за „Изпращане на съобщения“ и „Вграждане на "
+"връзки“"
+
+#: cogs/lvl/__init__.py:406
+msgid "{tick} **Now I will send all levelup messages to** {channel}"
+msgstr ""
+"{tick} **Сега, всеки път когато нивото на потребител се покачи, ще пращам "
+"съобщенията за това в** {channel}"
+
+#: cogs/lvl/__init__.py:415
+msgid ""
+"Makes Roku send levelup messages where they levelup\n"
+"        This is the default"
+msgstr ""
+"Кара Roku да изпраща съобщения за повишаване на нивото, когато и където се "
+"повиши нивото.\n"
+"Това е настройката по подразбиране."
+
+#: cogs/lvl/__init__.py:421
+msgid "{tick} Now I will send levelup messages on the place where they levelup"
+msgstr ""
+"{tick} Сега, когато някой покачи нивото си, аз ще пращам съобщенията за това "
+"в текущият канал, където са покачили нивото си."
+
+#: cogs/lvl/__init__.py:436
+msgid "Settings for auto level roles"
+msgstr "Настройки за автоматично даване на роли при достигане на ниво"
+
+#: cogs/lvl/__init__.py:444
+msgid ""
+"Set roles I should give out to people when they level up to a specific level"
+msgstr ""
+"Задавайте роли, които трябва да давам на хората, когато достигнат определено "
+"ниво"
+
+#: cogs/lvl/__init__.py:447
+msgid "{role} is above my role, Drag my role to top to fix this issue!"
+msgstr ""
+"{role} е над моята роля. За да решите този проблем, преместете ролята ми до "
+"върха!"
+
+#: cogs/lvl/__init__.py:451
+msgid "**Sorry,** This role is managed by discord. I can't add or remove it"
+msgstr ""
+"**Извинявам се,** Тази роля се управлява от Дискорд. Не мога да я давам или "
+"премахвам"
+
+#: cogs/lvl/__init__.py:459
+msgid ""
+"Whoops, You cannot add anymore roles. If u want to add, subscribe to premium."
+msgstr ""
+"Упс, Не можете да добавяте повече роли! Ако все пак искате са добавяте още, "
+"абонирайте се за premium."
+
+#: cogs/lvl/__init__.py:460
+msgid "Support Roku by subscribing to premium and"
+msgstr "Подкрепете Roku, като се абонирате за премиум и"
+
+#: cogs/lvl/__init__.py:461
+msgid "enjoy the premuim features!"
+msgstr "наслади се на premuim услугите !"
+
+#: cogs/lvl/__init__.py:463
+msgid "Click here for more info : https://ko-fi.com/rokubot"
+msgstr "Натиснете тук за повече информация: https://ko-fi.com/rokubot"
+
+#: cogs/lvl/__init__.py:471
+msgid ""
+"{tick} Done! I will be giving {role} role when they reach level **{level}**"
+msgstr ""
+"{tick} Готово ! Ще давам ролята {role} когато те достигнат ниво **{level}**"
+
+#: cogs/lvl/__init__.py:480
+msgid "Remove levelroles from certain levels, if you have already setup."
+msgstr ""
+"Премахнете ролите на нивата от определени нива, ако вече сте ги настроили."
+
+#: cogs/lvl/__init__.py:486
+msgid "No roles or levels have been added yet!"
+msgstr "Все още не са добавени роли или нива!"
+
+#: cogs/lvl/__init__.py:490
+msgid "Role for that level was not added before."
+msgstr "Роля за това ниво не е била добавяна преди."
+
+#: cogs/lvl/__init__.py:497
+msgid "{tick} Done! I won't be adding any roles for level {level}"
+msgstr "{tick} Готово ! Няма да добавям каквито и да е роли за ниво {level}"
+
+#: cogs/lvl/__init__.py:507
+msgid "Shows the levelroles that you have added"
+msgstr "Показва ролите, добавени от Вас за награждаване"
+
+#: cogs/lvl/__init__.py:511
+msgid "No roles were added."
+msgstr "Не бяха добавени роли."
+
+#: cogs/lvl/__init__.py:517
+msgid ""
+"**{i}. Level {lvl}** - {role}\n"
+msgstr "**{i}. Ниво {lvl}** - {role}"
+
+#: cogs/lvl/__init__.py:519
+msgid "Level Roles"
+msgstr "Нива с Роли"
+
+#: cogs/lvl/__init__.py:525
+msgid "Setup Custom levelmessage for your lovely server!"
+msgstr ""
+"Настройте Персонализирано съобщение при покачване на ниво за Вашия прекрасен "
+"сървър!"
+
+#: cogs/lvl/__init__.py:535
+msgid ""
+"**{tick} Levelup Message has been set. Type `{prefix}leveltest` to test how "
+"it looks!**"
+msgstr ""
+"**{tick} Зададено е съобщението за покачване на нивото. Напишете `{prefix}"
+"leveltest` за да тествате как изглежда!**"
+
+#: cogs/lvl/__init__.py:545
+msgid ""
+"Test Your LevelMessage Setup!\n"
+"        You need to have role rewardonly disabled for this to work.\n"
+"        If u have enabled role rewardonly, please use `rewardtest` command."
+msgstr ""
+"Тествайте настройката си за Съобщение на Ниво!\n"
+"Трябва да сте деактивирали награждаването само с роли, за да работи това.\n"
+"Ако сте активирали награждаването само с роли, моля, използвайте командата "
+"`тестнаграда`."
+
+#: cogs/lvl/__init__.py:557
+msgid "Reward only has been enabled, please use `{prefix}rewardtest` instead"
+msgstr ""
+"Активирана е опцията „Само награда“, моля, използвайте `{prefix}rewardtest` "
+"вместо това"
+
+#: cogs/lvl/__init__.py:568
+msgid "Test Your Reward Message Setup!"
+msgstr "Тествайте Вашето Съобщение за Награда!"
+
+#: cogs/lvl/__init__.py:574
+msgid "You didn't setup reward roles, please setup reward roles first"
+msgstr "Не сте задали роли-награди, моля първо да зададете роли-награди"
+
+#: cogs/lvl/__init__.py:579
+msgid "This role is not a reward role"
+msgstr "Тази роля не е роля-награда"
+
+#: cogs/lvl/__init__.py:591
+msgid "Setup Custom role reward message for your lovely server!"
+msgstr ""
+"Настройте Персонализирано съобщение за ролева награда за Вашия прекрасен "
+"сървър!"
+
+#: cogs/lvl/__init__.py:597 cogs/lvl/__init__.py:663 cogs/lvl/__init__.py:687
+msgid "You didn't setup reward roles, please setup reward roles first."
+msgstr "Не сте задали роли-награди, моля първо да зададете роли-награди."
+
+#: cogs/lvl/__init__.py:607
+msgid ""
+"**{tick} Reward Message has been set. Type `{prefix}rewardtest` to test how "
+"it looks!**"
+msgstr ""
+"**{tick} Съобщението за награда е зададено. Въведете `{prefix}rewardtest`, "
+"за да тествате как изглежда!**"
+
+#: cogs/lvl/__init__.py:616
+msgid "Adds Level to the mentioned user"
+msgstr "Добавя ниво към споменатия потребител"
+
+#: cogs/lvl/__init__.py:619
+msgid "Hey, You cannot add level more than 99"
+msgstr "Хей, Вие не можете да добавите повече от 99 нива"
+
+#: cogs/lvl/__init__.py:622
+msgid "Cannot add level to a bot."
+msgstr "Не е възможно добавянето на ниво към бот."
+
+#: cogs/lvl/__init__.py:632
+msgid "{tick} Added level `{level}` for {member}**"
+msgstr "**{tick} Добавих нивото `{level}` към {member}**"
+
+#: cogs/lvl/__init__.py:639
+msgid ""
+"Reset the level of entire server.\n"
+"        Only Server Owner can do this and this cannot be undone"
+msgstr ""
+"Рестартиране на нивото на целия сървър.\n"
+"Само Собственикът на Сървъра може да направи това и това действие не може да "
+"бъде отменено."
+
+#: cogs/lvl/__init__.py:644
+msgid "{tick} Done! I have reset the levels of this server."
+msgstr "{tick} Готово ! Рестартирах всички нива в този сървър."
+
+#: cogs/lvl/__init__.py:654
+msgid ""
+"Change how levelroles get given out.\n"
+"        **Stack: ** When leveling up, users keep their previous levels\n"
+"        **Replace: ** When leveling up, users only keep their highest role."
+msgstr ""
+"Променете начина, по който се разпределят ролите за ниво.\n"
+"**Натрупване: ** При повишаване на ниво, потребителите запазват предишните "
+"си нива.\n"
+"**Замяна: ** При повишаване на ниво, потребителите запазват само най-"
+"високата си роля."
+
+#: cogs/lvl/__init__.py:667
+msgid "{tick} Now when leveling up, users keep their previous levels"
+msgstr ""
+"{tick} Сега, когато покачат ниво, потребителите ще запазват предишните си "
+"нива."
+
+#: cogs/lvl/__init__.py:671
+msgid "{tick} Now when leveling up, users only keep their highest role"
+msgstr ""
+"{tick} Сега, при покачване на ниво, потребителите ще задържат само най-"
+"високата си роля"
+
+#: cogs/lvl/__init__.py:674
+msgid ""
+"**Examples :** \n"
+"`{prefix}rewardstyle stack` \n"
+"`{prefix}rewardstyle replace`"
+msgstr ""
+"**Примери :** \n"
+"`{prefix}rewardstyle stack` \n"
+"`{prefix}rewardstyle replace`"
+
+#: cogs/lvl/__init__.py:675
+msgid ""
+"Invalid Style Provided, Please provide `replace` or `stack` as argument. \n"
+msgstr ""
+"Подаден бе невалиден стил, Моля използвайте `замени` или  `подреди` като "
+"аргументи. "
+
+#: cogs/lvl/__init__.py:681
+msgid "Make roku only send role reward messages."
+msgstr "Накарайте Roku да изпраща само съобщения за награди за роли."
+
+#: cogs/lvl/__init__.py:694
+msgid "**{tick} Now I will only send role reward messages**"
+msgstr "**{tick} Сега ще изпращам само съобщения, където има роля за награда**"
+
+#: cogs/lvl/__init__.py:696
+msgid "**{tick} Now I will send all levelup messages**"
+msgstr "**{tick} Сега ще изпращам съобщения при всички повишавания на нивото**"
+
+#: cogs/lvl/__init__.py:703
+msgid ""
+"Disable channels from giving xp for chatting in it.\n"
+"        Incase if u dont want ppl to spam in #spam or #bots channel."
+msgstr ""
+"Деактивирайте способността на специфични канали да дават XP за чат в тях.\n"
+"В случай че не искате хората да спамят в канали за #спам или #ботове и по "
+"този начин да натрупват нива. "
+
+#: cogs/lvl/__init__.py:710
+msgid ""
+"You need to provide atleast one channel.\n"
+"Eg: `{prefix}{invoked_with} #spam #bots`"
+msgstr ""
+"Трябва да предоставите поне един канал.\n"
+"Например: `{prefix}{invoked_with} #spam #bots`"
+
+#: cogs/lvl/__init__.py:756
+msgid ""
+"Enable a previously disabled channel from giving xp for chatting in it.\n"
+"        Incase u dont want ppl to spam in #spam or #bots channel."
+msgstr ""
+"Активирайте предварително деактивиран канал, за даване на XP  за чат в него."
+"\n"
+"В случай че не искате хората да спамят в канала за #спам или #ботове."
+
+#: cogs/lvl/__init__.py:763
+msgid ""
+"You need to provide atleast one channel.\n"
+"Eg: `{prefix}{invoked_with} #general #general-2`"
+msgstr ""
+"Трябва да предоставите поне един канал.\n"
+"Например: `{prefix}{invoked_with} #general #general-2`"
