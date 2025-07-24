@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-19 09:57+0530\n"
+"PO-Revision-Date: 2025-07-23 23:57+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"X-Loco-Source-Locale: bg_BG\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cogs/mod/__init__.py:22
+msgid "Keep your server safe with advanced moderation commands."
+msgstr ""
+"Пази Вашият сървър в безопасност с напреднали и модерни функции за модерация."
+
+#: cogs/mod/__init__.py:36
+msgid "Moderation commands are not available in DMs"
+msgstr "Командите за модериране не са достъпни в ЛС"
+
+#: cogs/mod/__init__.py:62
+msgid "Auto-Unmute from temp mute"
+msgstr "Автоматично премахване на временното заглушаване"
+
+#: cogs/mod/__init__.py:69
+msgid "Auto-Unjail from temp jail"
+msgstr "Автоматично премахване от временният затвор"
+
+#: cogs/mod/__init__.py:125 cogs/mod/__init__.py:158
+msgid ""
+"**<a:blloading:731862370380546069> Creating the role and updating the role. "
+"This may take a while...**"
+msgstr ""
+"**<a:blloading:731862370380546069> Ролята е в процес на създаване и "
+"актуализирането ѝ тече. Това може да отнеме известно време...**"
+
+#: cogs/mod/__init__.py:136
+msgid ""
+"I don't have enough permission to create muted role, please provide the "
+"required permission"
+msgstr ""
+"Нямам нужните разрешени за да създам заглушаващата роля, моля дайте ми "
+"нужните разрешения"
+
+# command = команда
+#: cogs/mod/__init__.py:143
+msgid ""
+"I cannot find the muted role I made. It has been deleted.Use `{prefix}"
+"muterole command` and update muterole"
+msgstr ""
+"Не можах да намеря Заглушаващата Роля, която създадох. Явно е била изтрита. "
+"Използвайте `{prefix}muterole command ` за отстраняване на проблема."
+
+#: cogs/mod/__init__.py:169 cogs/mod/__init__.py:186
+msgid "Creating Jail Channel"
+msgstr "Създава се Канал-Затвор"
+
+#: cogs/mod/__init__.py:175 cogs/mod/__init__.py:192 cogs/mod/__init__.py:933 
+#: cogs/mod/__init__.py:935
+msgid "Permission update for jail role"
+msgstr "Обновени разрешения за затворническата роля"
+
+#: cogs/mod/__init__.py:201
+msgid ""
+"I don't have enough permission to create jail role / channel, please provide "
+"the required permission"
+msgstr ""
+"Нямам нужните разрешени за да създам затворническа роля / канал, моля дайте "
+"ми нужните разрешения"
+
+#: cogs/mod/__init__.py:208
+msgid ""
+"I cannot find the jail role I made. It has been deleted.Use `{prefix}"
+"jailrole` subcommands to fix it."
+msgstr ""
+"Не можах да намеря затворническата роля, която създадох. Явно е била изтрита."
+" Използвайте Под-командите при `{prefix}jailrole` за отстраняване на "
+"проблема."
+
+#: cogs/mod/__init__.py:219
+msgid "You have been {action} from **{ctx.guild.name}** for `{reason}`"
+msgstr ""
+"\n"
+"Вие бяхте {action} от страна на **{ctx.guild.name}** поради `{reason}`"
+
+#: cogs/mod/__init__.py:247
+msgid "previously muted member"
+msgstr "бившо заглушаван член на сървъра"
+
+#: cogs/mod/__init__.py:259
+msgid "previously jailed member"
+msgstr "член на сървъра, който е бил затварян преди"
+
+#: cogs/mod/__init__.py:278
+msgid "Auto-Permission update for mute role"
+msgstr "Актуализация на Автоматичното-Разрешение за ролята на заглушаваните"
+
+#: cogs/mod/__init__.py:299
+msgid "Auto-Permission update for jail role"
+msgstr ""
+"\n"
+"Актуализация на Автоматичното-Разрешение за затворническата роля"
+
+#: cogs/mod/__init__.py:307
+msgid ""
+"Kicks a mentioned member from the server.\n"
+"        In order for this to work, the bot must have Kick Member permissions."
+"\n"
+"        To use this command you must have Kick Members permission.\n"
+"        "
+msgstr ""
+"Изритва споменат потребител от сървъра.\n"
+"За да работи това, ботът трябва да има разрешения за изхвърляне на "
+"потребители.\n"
+"За да използвате тази команда, трябва да имате разрешение за изхвърляне на "
+"потребители."
+
+#: cogs/mod/__init__.py:311 cogs/mod/__init__.py:331 cogs/mod/__init__.py:352
+msgid "unmentioned. Action taken by {author} (ID: {author.id})"
+msgstr ""
+"\n"
+"неспоменато. Действие, предприето от {author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:312
+msgid "kicked"
+msgstr "изритан"
+
+#: cogs/mod/__init__.py:317
+msgid "**{tick} {member} was kicked**"
+msgstr "**{tick} {member} беше изритан от сървъра**"
+
+#: cogs/mod/__init__.py:325
+msgid ""
+"Bans a user from the server.\n"
+"        You can also ban from ID to ban regardless whether they're\n"
+"        in the server or not.\n"
+"        In order for this to work, the bot must have Ban Member permissions."
+"\n"
+"        To use this command you must have Ban Members permission.\n"
+"        "
+msgstr ""
+"Забранява достъпа на потребител от сървъра в него.\n"
+"Можете също така да забраните чрез ID, за да баннете, независимо дали "
+"избраният потребител е в сървъра или не.\n"
+"За да работи това, ботът трябва да има разрешения за забрана на членове.\n"
+"За да използвате тази команда, трябва да имате разрешение за забрана на "
+"членове."
+
+# also could do "баннат", недопустим, but the currentversion is the most correct translation. На user му беше забранен достъп до сървъра / user was forbidden from accessing the server, keeping it in a way that makes sense and isnt just transliteration
+#: cogs/mod/__init__.py:333
+msgid "banned"
+msgstr "забранен"
+
+#: cogs/mod/__init__.py:338
+msgid "**{tick} {user} was banned**"
+msgstr "**{tick} достъпа на {user} до сървъра беше забранен**"
+
+#: cogs/mod/__init__.py:346
+msgid ""
+"Unbans a member from the server.\n"
+"        You can pass either the ID of the banned member or the Name#Discrim\n"
+"        combination of the member. Typically the ID is easiest to use.\n"
+"        In order for this to work, the bot must have Ban Member permissions."
+"\n"
+"        To use this command you must have Ban Members permissions.\n"
+"        "
+msgstr ""
+"Отменя забраната на член от сървъра, позволявайки на този потребител да се "
+"присъедини обратно в сървъра.\n"
+"Можете да подадете или ID-то на забранения член, или комбинацията "
+"Име#Дискриматор\n"
+"на члена. Обикновено ID-то е най-лесно за използване.\n"
+"За да работи това, ботът трябва да има разрешения за забрана на членове.\n"
+"За да използвате тази команда, трябва да имате разрешения за забрана на "
+"членове."
+
+# translate to the prohibition from entering the server was removed from  {member.user} 
+# feedback welcome
+#: cogs/mod/__init__.py:356
+msgid "**{tick} {member.user} was unbanned**"
+msgstr ""
+"**{tick} Беше премахната забраната за достъп до сървъра на  {member.user}**"
+
+#: cogs/mod/__init__.py:364
+msgid ""
+"Warns a member in the server\n"
+"        You can pass either ID or nickname or name#discrimin combination\n"
+"        To use this command, you must have Manage Server permissions.\n"
+"        You can check warns through `<prefix>punishments <member>`."
+msgstr ""
+"Предупреждава член на сървъра\n"
+"Можете да подадете или ID-то, или прякор, или комбинация от име и "
+"дискриминатор\n"
+"За да използвате тази команда, трябва да имате разрешения за управление на "
+"сървъра.\n"
+"Можете да проверявате предупрежденията чрез `<prefix>punishments <member>`"
+
+#: cogs/mod/__init__.py:369
+msgid "unmentioned. Action taken by {author} (ID: {author.id}"
+msgstr "неспоменато. Действие, предприето от {author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:372
+msgid "**{tick} {member} has been warned**"
+msgstr "**{tick} Наложено бе предупреждение на {member}**"
+
+#: cogs/mod/__init__.py:376
+msgid "warned"
+msgstr "предупреден"
+
+#: cogs/mod/__init__.py:381
+msgid ""
+"Clears a users warn if a user is mentioned.\n"
+"        Else it will clear entire server warns"
+msgstr ""
+"Изчиства предупреждението на потребителя, ако е споменат потребител.\n"
+"В противен случай ще изчисти всички предупреждения на сървъра."
+
+#: cogs/mod/__init__.py:392
+msgid "{entity} has no warnings"
+msgstr "{entity} няма никакви предупреждения"
+
+#: cogs/mod/__init__.py:394
+msgid "{member.display_name}'s"
+msgstr "на {member.display_name}"
+
+#: cogs/mod/__init__.py:394
+msgid "server's"
+msgstr "на сървъра"
+
+#: cogs/mod/__init__.py:398
+msgid "Are you sure u want to clear entire {txt} warnings?"
+msgstr "Сигурни ли сте, че искате да изчистите всички предупреждния от {txt}?"
+
+#: cogs/mod/__init__.py:405 cogs/mod/__init__.py:457
+msgid "Timeout, Cannot wait for you any longer"
+msgstr "Времето изтече, Не мога да те чакам повече"
+
+#: cogs/mod/__init__.py:408 cogs/mod/__init__.py:460
+msgid "Cancelling...."
+msgstr "Отменя се...."
+
+#: cogs/mod/__init__.py:411
+msgid "{config.tick} Successfully cleared all warnings"
+msgstr "{config.tick} Успешно изчистих всички предупреждения"
+
+#: cogs/mod/__init__.py:416
+msgid "Removes the warning with given case."
+msgstr "Премахва предупреждението чрез даден Случай"
+
+#: cogs/mod/__init__.py:424 cogs/mod/__init__.py:476
+msgid "Couldn't found a warn with that Case ID"
+msgstr "Не можах да намеря предупреждения с тази Номерация на Случай"
+
+#: cogs/mod/__init__.py:425
+msgid "{tick} Removed the warning of case : {case_id}"
+msgstr "{tick} Премахнах предупреждението за случай: {case_id"
+
+#: cogs/mod/__init__.py:430
+msgid ""
+"Clears a users punish if a user is mentioned.\n"
+"        Else it will clear entire server warns"
+msgstr ""
+"Изчиства наказанието на потребителя, ако бъде споменат потребител.\n"
+"В противен случай ще изчисти всички предупреждения в сървъра."
+
+#: cogs/mod/__init__.py:442
+msgid "{entity} has no punishments"
+msgstr "{entity} няма никакви наказания"
+
+#: cogs/mod/__init__.py:449
+msgid "Are you sure u want to clear entire {txt} punishments?"
+msgstr "Сигурни ли сте, че искате да изчистите всички наказания от {txt}?"
+
+#: cogs/mod/__init__.py:463
+msgid "{tick} Successfully cleared all punishments"
+msgstr "{tick} Успешно изчистих всички наказания"
+
+#: cogs/mod/__init__.py:468
+msgid "Removes the punishment with given case."
+msgstr "Премахва наказанието чрез даден Случай"
+
+#: cogs/mod/__init__.py:478
+msgid "{tick} Removed the punishment with Case #{case_id}"
+msgstr "{tick} Премахнах наказанието по Случай #{case_id}"
+
+#: cogs/mod/__init__.py:485
+msgid ""
+"Changes the slowmode of given channel.\n"
+"        If channel is not given, changes the slowmode of channel where "
+"command is run.\n"
+"        Time format 2 h, 3 m, 2 s.\n"
+"        Eg: `ro slowmode 10s`\n"
+"\n"
+"        **Note: ** To turn off slowmode, type `ro slowmode 0s`"
+msgstr ""
+"Променя бавния режим на даден канал.\n"
+"Ако каналът не е зададен в командата, то тогава се променя бавният режим на "
+"канала, където се изпълнява командата.\n"
+"Формат на времето 2 ч, 3 мин, 2 сек. (h, m, s)\n"
+"Например: `ro slowmode 10s"
+
+#: cogs/mod/__init__.py:495
+msgid ""
+"**__Examples:__** \n"
+"`{prefix}slowmode 4h`  - sets slowmode of current channel to 4 hours.\n"
+"`{prefix}slowmode 0s`  - turns slowmode off in the current channel.\n"
+"`{prefix}slowmode #roku-channel 5s` -  sets slowmode of #roku-channel to 5 "
+"seconds.\n"
+"`{prefix}slowmode #roku-channel 0s` - turns slowmode off in #roku-channel.\n"
+msgstr ""
+"\n"
+"**__Примери:__** \n"
+"`{prefix}slowmode 4h` - задава бавния режим на текущия канал на 4 часа.\n"
+"`{prefix}slowmode 0s` - изключва бавния режим в текущия канал.\n"
+"`{prefix}slowmode #roku-channel 5s` - задава бавния режим на #roku-channel "
+"на 5 секунди.\n"
+"`{prefix}slowmode #roku-channel 0s` - изключва бавния режим в #roku-channel."
+
+#: cogs/mod/__init__.py:501
+msgid ""
+"Provided Invalid time format. h , m, s are the valid ones. \n"
+"\n"
+"{examples}"
+msgstr ""
+"Предоставен е невалиден формат за време. h, m, s са единствените валидни "
+"формати.\n"
+"\n"
+"{examples}"
+
+#: cogs/mod/__init__.py:504
+msgid "Provided  time is below 0 seconds. Provide something above that."
+msgstr "Даденото време е под 0, Моля задйате нещо по-високо от това. "
+
+#: cogs/mod/__init__.py:508
+msgid ""
+"Provided time is above 6 hours. The max time for slowmode is 6 hours "
+"(Discord limitation)"
+msgstr ""
+"Зададеното от Вас време е над 6 часа. Дискорд налага лимит до максимално 6 "
+"часа."
+
+#: cogs/mod/__init__.py:513
+msgid "{tick} Slowmode for {channel} has turned off"
+msgstr "{tick} Беше изключен забавеният режим за {channel} "
+
+#: cogs/mod/__init__.py:517
+msgid ""
+"{tick} Slowmode for {channel.mention} has been set to {humanize."
+"precisedelta(timedelta(seconds=time))}"
+msgstr ""
+"{tick} Забавеният режим в {channel.mention} беше настроен за {humanize."
+"precisedelta(timedelta(seconds=time))}"
+
+#: cogs/mod/__init__.py:526
+msgid ""
+"See the past punishment history of a user in the server or the entire server "
+"at once.\n"
+"        Only counts punishments given out through Roku"
+msgstr ""
+"Вижте историята на миналите наказания на потребители в сървъра или на целия "
+"сървър наведнъж.\n"
+"Брои само наказанията, налагани посредством Roku."
+
+#: cogs/mod/__init__.py:531
+msgid "Punishments of entire server"
+msgstr "Всички наказания на сървъра"
+
+#: cogs/mod/__init__.py:534
+msgid "{user}'s punishments"
+msgstr "Наказанията на {user}"
+
+#: cogs/mod/__init__.py:542 cogs/mod/__init__.py:585
+msgid ""
+"#Case {case_id} | {type}\n"
+msgstr ""
+"Случай #{case_id} | {type}\n"
+
+#: cogs/mod/__init__.py:545 cogs/mod/__init__.py:588
+msgid ""
+"**User: ** {member}  (ID: {member_id})\n"
+msgstr ""
+"**Потребител: ** {member}  (ID: {member_id})\n"
+
+#: cogs/mod/__init__.py:547 cogs/mod/__init__.py:590
+msgid ""
+"**Moderator: ** {mod} (ID: {mod_id})\n"
+" **Reason: ** {reason}\n"
+msgstr ""
+"**Модератор: ** {mod} (ID: {mod_id})\n"
+" **Причина: ** {reason}\n"
+
+#: cogs/mod/__init__.py:558
+msgid "No punishments have been given in this server. This server looks clean!"
+msgstr ""
+"Нито едно наказание е давано някога тук в този сървър. Изглежда, че всички "
+"следват правилата тук !"
+
+#: cogs/mod/__init__.py:560
+msgid "No punishments found for this user. This user looks clean!"
+msgstr ""
+"Не бяха намерени предишни наказания за този потребител. Изглежда, че са на "
+"чисто ! "
+
+#: cogs/mod/__init__.py:570
+msgid ""
+"See a specific user's warnings or just all warnings on the entire server"
+msgstr ""
+"Вижте предупрежденията на конкретен потребител или просто всички "
+"предупреждения из целия сървър"
+
+#: cogs/mod/__init__.py:574
+msgid "Entire Server Warnings"
+msgstr "Предупрежденията в целият сървър"
+
+#: cogs/mod/__init__.py:577
+msgid "{user}'s warnings"
+msgstr "Предупрежденията на {user} "
+
+#: cogs/mod/__init__.py:601
+msgid "No warnings have been given in this server. This server looks clean!"
+msgstr "Няма издавани предупреждения в този сървър. Той изглежда чист ! "
+
+#: cogs/mod/__init__.py:603
+msgid "No warnings have been given to this user. This user looks clean!"
+msgstr ""
+"Няма издавани предупреждения за този потребител. Потребителят е на чисто! "
+
+#: cogs/mod/__init__.py:614
+msgid ""
+"Mute users so they can no longer talk.\n"
+"        If you want to temporarily mute someone, use time after mentioning "
+"the member.\n"
+"        Note that times are in UTC.\n"
+"        Mutes stay even if they leave and rejoin.\n"
+"        Please note that servers with custom member roles that give "
+"permissions to talk will no work due to permission overwriting\n"
+"\n"
+"        The bot must have Manage Roles permission and be\n"
+"        above the muted role in the hierarchy.\n"
+"\n"
+"        To use this command you need to be higher than the\n"
+"        mute role in the hierarchy and have Manage Roles\n"
+"        permission at the server level.\n"
+"        "
+msgstr ""
+"Заглушете потребителите, за да не могат повече да говорят.\n"
+"Ако искате временно да заглушите някого, използвайте време след "
+"споменаването на потребителя.\n"
+"Обърнете внимание, че часовете са в UTC (Универсално Координирано Време).\n"
+"Заглушаванията остават, дори ако те напуснат и се присъединят отново към "
+"сървъра.\n"
+"Моля, обърнете внимание, че сървърите с персонализирани роли на членове, "
+"които дават разрешения за разговор, няма да работят поради пренатрупване на "
+"разрешения.\n"
+"\n"
+"Ботът трябва да има разрешение за управление на роли и да бъде над "
+"заглушената роля в йерархията.\n"
+"\n"
+"За да използвате тази команда, трябва да сте по-високо от ролята за "
+"заглушаване в йерархията и да имате разрешение за управление на роли на ниво "
+"сървър."
+
+#: cogs/mod/__init__.py:636
+msgid "unmentioned. Action Mute taken by {author} (ID: {author.id})"
+msgstr ""
+"неспоменато. Действието Заглушаване е предприето от {author} (ID: {author.id}"
+")"
+
+#: cogs/mod/__init__.py:639
+msgid " Action Mute taken by {author} (ID: {author.id})"
+msgstr "Действието Заглушаване бе предприето от {author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:646
+msgid "**{tick} {member} was muted**"
+msgstr "**{tick} {member} беше заглушен**"
+
+#: cogs/mod/__init__.py:649
+msgid "muted"
+msgstr "заглушен"
+
+#: cogs/mod/__init__.py:652
+msgid "**{tick} {member} has been muted till {time}**"
+msgstr "**{tick} {member} беше заглушен за {time}**"
+
+#: cogs/mod/__init__.py:665
+msgid "muted till {time}"
+msgstr "заглушен за {time}"
+
+#: cogs/mod/__init__.py:675
+msgid "Unmutes previously muted member"
+msgstr "Премахва заглушаването на заглушаван член на сървъра"
+
+#: cogs/mod/__init__.py:680
+msgid "This member was not muted before"
+msgstr "Този потребител не е бил заглушаван преди"
+
+#: cogs/mod/__init__.py:682
+msgid "unmentioned. Action Unmute taken by {author} (ID: {author.id})"
+msgstr ""
+"неспоменато. Действието за прекратяване на заглушаването бе предприето от "
+"{author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:689 cogs/mod/__init__.py:861
+msgid "**{tick} {member} was unmuted**"
+msgstr "**{tick} заглушаването на {member} приключи**"
+
+#: cogs/mod/__init__.py:693
+msgid "unmuted"
+msgstr "незаглушен"
+
+#: cogs/mod/__init__.py:699 cogs/mod/__init__.py:870
+msgid "Configure Mute Role"
+msgstr "Конфигурирайте Ролята за Заглушавана"
+
+#: cogs/mod/__init__.py:708
+msgid "Set muterole to an existing role"
+msgstr "Приложете ролята за заглушаване към вече съществуваща роля"
+
+#: cogs/mod/__init__.py:712 cogs/mod/__init__.py:883
+msgid "{role} is above my role, Drag my role to top to fix this issue!"
+msgstr ""
+"Ролята {role} е над моята роля, За да поправите този проблем, моля качете "
+"ролята ми на върха!"
+
+#: cogs/mod/__init__.py:717 cogs/mod/__init__.py:888
+msgid "**Sorry,** This role is managed by discord. I can't add or remove it"
+msgstr ""
+"**Съжалявам,** Тази роля се управлява от Discord. Не мога да я добавя или "
+"премахна."
+
+#: cogs/mod/__init__.py:724
+msgid "{tick} Successfully set muted role"
+msgstr "{tick} Успешно зададох ролята за заглушените"
+
+#: cogs/mod/__init__.py:730
+msgid ""
+"Remove muterole, so that Roku don't use the muterole anymore.\n"
+"        **Note: ** If you mute someone after removing muterole, roku will "
+"create new muterole.\n"
+"        Due to this, this command has cooldown of 3 minutes"
+msgstr ""
+"Премахнете заглушаващата роля, за да не може Roku да я използва повече.\n"
+"**Забележка: ** Ако сте се опитали да заглушите някого след премахване на "
+"съответната роля , Roku ще създаде нова роля за заглушаване.\n"
+"Поради това, тази команда има времеви лимит от 3 минути за да се избегне "
+"натоварване на Дискорд и на бота."
+
+#: cogs/mod/__init__.py:735 cogs/mod/__init__.py:910
+msgid "{tick} Successfully deleted muted role"
+msgstr "{tick} Успешно изтрих ролята за заглушаване"
+
+#: cogs/mod/__init__.py:742
+msgid ""
+"Updates Permissions of muterole for every channel.\n"
+"\n"
+"        **Note: **This command has cooldown of 3 minutes because of heavy "
+"ratelimits by Discord."
+msgstr ""
+"Актуализира разрешенията за заглушената роля във всеки канал.\n"
+"\n"
+"**Забележка:** Тази команда има време за охлаждане от 3 минути поради "
+"високите ограничения на скоростта от Discord."
+
+#: cogs/mod/__init__.py:748 cogs/mod/__init__.py:752 cogs/mod/__init__.py:773
+msgid "No muterole found. Please create muterole before using this command"
+msgstr ""
+"Не беше намерена заглушаваща роля. Моля създайте заглушаваща роля преди да "
+"използвате тази команда."
+
+#: cogs/mod/__init__.py:754 cogs/mod/__init__.py:929
+msgid ""
+"**<a:blloading:731862370380546069> Updating the permissions.. This may take "
+"a while..**"
+msgstr ""
+"**<a:blloading:731862370380546069> Разрешенията се обновяват... Това може да "
+"отнеме известно време..**"
+
+#: cogs/mod/__init__.py:757
+msgid "Permission update for mute role"
+msgstr "Обновени разрешения за заглушаващата роля"
+
+#: cogs/mod/__init__.py:760
+msgid "{tick} Successfully updated muted role permissions"
+msgstr ""
+"{tick} Успешно бяха актуализирани разрешенията за ролята на заглушените"
+
+#: cogs/mod/__init__.py:766
+msgid ""
+"Enable auto permission update for muterole.\n"
+"\n"
+"        This will make bot update muterole permission when\n"
+"        a new channel is created"
+msgstr ""
+"Активиране на автоматично актуализиране на разрешенията на Ролята на "
+"Заглушаваните.\n"
+"\n"
+"Това ще накара бота да актуализира разрешенията на Заглушената Роля, когато "
+"се създава нов канал"
+
+#: cogs/mod/__init__.py:780
+msgid "{tick} Successfully turned muterole autoupdate **{status}**"
+msgstr ""
+"{tick} Автоматичното актуализиране на заглушаващата роля е успешно "
+"активирано **{status}**"
+
+#: cogs/mod/__init__.py:787
+msgid ""
+"Jail users so they can only send messages in #Jailed channel\n"
+"        If you want to temporarily jail someone, mention time after "
+"mentioning the member.\n"
+"        Note that times are in UTC.\n"
+"        Mutes stay even if they leave and rejoin.\n"
+"        Please note that servers with custom member roles that give "
+"permissions to talk will no work due to permission overwriting\n"
+"\n"
+"        The bot must have Manage Roles permission and be\n"
+"        above the Jailed role in the hierarchy.\n"
+"\n"
+"        To use this command you need to be higher than the\n"
+"        mute role in the hierarchy and have Manage Roles\n"
+"        permission at the server level.\n"
+"        "
+msgstr ""
+"\n"
+"Затворете потребители, за да могат да изпращат съобщения само в канала, "
+"наречен #Jailed \n"
+"Ако искате временно да затворите някого, споменете времето, веднага след "
+"като посочите потребителя, който искате да пратите в затвора.\n"
+"Обърнете внимание, че времето е в UTC (Универсално Координирано Време).\n"
+"Заглушаването остава, дори ако потребител напусне и се присъедини отново към "
+"сървъра.\n"
+"Моля, обърнете внимание, че сървърите с персонализирани роли на "
+"потребителите, които дават разрешения за разговор в каналите, няма да "
+"работят поради пренатрупването на разрешенията.\n"
+"\n"
+"Ботът трябва да има разрешение за управление на роли и да бъде над ролята на "
+"Jailed в йерархията.\n"
+"\n"
+"За да използвате тази команда, трябва да сте по-високо от ролята за "
+"заглушаване в йерархията и да имате разрешение за управление на ролите на "
+"ниво сървър."
+
+#: cogs/mod/__init__.py:809
+msgid "unmentioned. Action Jail taken by {author} (ID: {author.id})"
+msgstr "неспоменато. Действие Затвор предприето от {author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:813
+msgid " Action Jail taken by {author} (ID: {author.id})"
+msgstr "Действието Затвор бе предприето от {author} (ID: {author.id})"
+
+#: cogs/mod/__init__.py:820
+msgid "**{tick} {member} was jailed**"
+msgstr "**{tick} В затвора беше поставен {member}**"
+
+#: cogs/mod/__init__.py:823
+msgid "jailed"
+msgstr "арестуван"
+
+#: cogs/mod/__init__.py:826
+msgid "**{tick} {member} has been jailed till {time}**"
+msgstr "**{tick} В ареста бе поставен {member} за {time}**"
+
+#: cogs/mod/__init__.py:839
+msgid "jailed till {time}"
+msgstr "арестуван за  {time}"
+
+#: cogs/mod/__init__.py:849
+msgid "Unjails previously jailed member"
+msgstr "Изкарва вече затварян потребител от затвора."
+
+#: cogs/mod/__init__.py:854
+msgid "This member was not jailed before"
+msgstr "Този потребител не е бил затварян преди"
+
+#: cogs/mod/__init__.py:861
+msgid "**{tick} {member} was unjailed**"
+msgstr "**{tick} {member} вече е извън затвора**"
+
+#: cogs/mod/__init__.py:879
+msgid "Set jailrole to an existing role"
+msgstr "Наложете затворническа роля като използвате вече съществуваща роля"
+
+#: cogs/mod/__init__.py:899
+msgid "{tick} Successfully set jailed role"
+msgstr "{tick} Успешно зададох ролята за поставяне в затвор"
+
+#: cogs/mod/__init__.py:905
+msgid ""
+"Remove jailrole, so that Roku don't use the jailrole anymore.\n"
+"        **Note: ** If you tried to jail someone after removing jailrole, "
+"roku will create new role.\n"
+"        Due to this, this command has cooldown of 3 minutes"
+msgstr ""
+"Премахнете затварящата роля, за да не може Roku да я използва повече.\n"
+"**Забележка: ** Ако сте се опитали да затворите някого след премахване на "
+"тази роля, Roku ще създаде нова такава.\n"
+"Поради това, тази команда има времеви лимит от 3 минути за да се избегне "
+"натоварване на Дискорд и на бота."
+
+#: cogs/mod/__init__.py:917
+msgid ""
+"Updates Permissions of jailrole for every channel.\n"
+"\n"
+"        **Note: **This command has cooldown of 3 minutes because of heavy "
+"ratelimits by Discord."
+msgstr ""
+"Актуализира разрешенията за затворническата роля във всеки канал.\n"
+"\n"
+"**Забележка:** Тази команда има време за охлаждане от 3 минути поради "
+"високите ограничения на скоростта от Discord."
+
+#: cogs/mod/__init__.py:923 cogs/mod/__init__.py:927 cogs/mod/__init__.py:951
+msgid "No jailrole found. Please create jailrole before using this command"
+msgstr ""
+"Не беше намерена затворническа роля. Моля създайте затворническа роля преди "
+"да използвате тази команда"
+
+#: cogs/mod/__init__.py:938
+msgid "**{tick} Successfully updated jail role permissions**"
+msgstr "**{tick} Успешно актуализирах разрешенията на затворническата роля**"
+
+#: cogs/mod/__init__.py:944
+msgid ""
+"Enable auto permission update for jailrole.\n"
+"\n"
+"        This will make bot update jailrole permission when\n"
+"        a new channel is created"
+msgstr ""
+"Активиране на автоматично актуализиране на разрешенията за Затворническата "
+"Роля.\n"
+"\n"
+"Това ще накара бота да актуализира разрешенията за Затворническата Роля, "
+"когато се създава нов канал"
+
+// jailrole is to further be translated as затворническата роля open to feedback
+#: cogs/mod/__init__.py:957
+msgid "{tick} Successfully turned jailrole autoupdate **{status}**"
+msgstr ""
+"{tick} Автоматичното актуализиране на затворническата роля е успешно "
+"активирано **{status}**"
