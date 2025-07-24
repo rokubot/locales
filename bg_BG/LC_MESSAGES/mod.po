@@ -6,10 +6,10 @@ msgstr ""
 "PO-Revision-Date: 2025-07-23 23:57+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Unknown\n"
-"Language: zxx\n"
+"Language: bg_BG\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "\n"
 "X-Loco-Source-Locale: bg_BG\n"
@@ -260,7 +260,7 @@ msgstr "Не можах да намеря предупреждения с таз
 
 #: cogs/mod/__init__.py:425
 msgid "{tick} Removed the warning of case : {case_id}"
-msgstr "{tick} Премахнах предупреждението за случай: {case_id"
+msgstr "{tick} Премахнах предупреждението за случай: {case_id}"
 
 #: cogs/mod/__init__.py:430
 msgid ""
@@ -304,7 +304,7 @@ msgstr ""
 "Ако каналът не е зададен в командата, то тогава се променя бавният режим на "
 "канала, където се изпълнява командата.\n"
 "Формат на времето 2 ч, 3 мин, 2 сек. (h, m, s)\n"
-"Например: `ro slowmode 10s"
+"Например: `ro slowmode 10s`"
 
 #: cogs/mod/__init__.py:495
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 #: cogs/mod/__init__.py:504
 msgid "Provided  time is below 0 seconds. Provide something above that."
-msgstr "Даденото време е под 0, Моля задйате нещо по-високо от това. "
+msgstr "Даденото време е под 0, Моля задайте нещо по-високо от това. "
 
 #: cogs/mod/__init__.py:508
 msgid ""
@@ -739,7 +739,7 @@ msgstr ""
 "Това ще накара бота да актуализира разрешенията за Затворническата Роля, "
 "когато се създава нов канал"
 
-// jailrole is to further be translated as затворническата роля open to feedback
+# jailrole is to further be translated as затворническата роля open to feedback
 #: cogs/mod/__init__.py:957
 msgid "{tick} Successfully turned jailrole autoupdate **{status}**"
 msgstr ""
