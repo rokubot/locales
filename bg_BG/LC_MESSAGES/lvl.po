@@ -67,6 +67,7 @@ msgid ""
 "\n"
 "        "
 msgstr ""
+"\n"
 "  `{mention}` - За да споменете (тагнете) потребителя.\n"
 "        __Например__ {.mention}\n"
 "\n"
@@ -95,6 +96,8 @@ msgstr ""
 "        `{role.id}` - ID-то на ролята, която давате на потребителя. (Това "
 "работи само за съобщения с награди)\n"
 "        __Примерно:__ 131085642020612392\n"
+"\n"
+"      "
 
 #: cogs/lvl/__init__.py:184
 msgid "Auto Level Roles - {lvl}"
@@ -241,9 +244,8 @@ msgid "No roles were added."
 msgstr "Не бяха добавени роли."
 
 #: cogs/lvl/__init__.py:517
-msgid ""
-"**{i}. Level {lvl}** - {role}\n"
-msgstr "**{i}. Ниво {lvl}** - {role}"
+msgid "**{i}. Level {lvl}** - {role}\n"
+msgstr "**{i}. Ниво {lvl}** - {role}\n"
 
 #: cogs/lvl/__init__.py:519
 msgid "Level Roles"
@@ -378,7 +380,7 @@ msgid ""
 "Invalid Style Provided, Please provide `replace` or `stack` as argument. \n"
 msgstr ""
 "Подаден бе невалиден стил, Моля използвайте `замени` или  `подреди` като "
-"аргументи. "
+"аргументи. \n"
 
 #: cogs/lvl/__init__.py:681
 msgid "Make roku only send role reward messages."
