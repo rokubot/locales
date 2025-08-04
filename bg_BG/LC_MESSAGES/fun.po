@@ -122,7 +122,7 @@ msgid ""
 "        Shows how much of a sweet waifu you can be!"
 msgstr ""
 "Устройство за рейтинг на Waifu-стта Ви\n"
-"Показва колко сладко waifu можете да бъдете ! "
+"Показва колко сладко waifu можете да бъдете !"
 
 #: cogs/fun.py:278
 msgid "Brings random meme from reddit"
@@ -131,49 +131,46 @@ msgstr "Показва разнообразно меме от Reddit"
 #: cogs/fun.py:298
 msgid ""
 "Husband rating Device\n"
-"        Shows how much of a cool husband you can be!"
+"Shows how much of a cool husband you can be!"
 msgstr ""
 "Устройство за оценка на Съпруг\n"
 "Показва колко готин съпруг можете да бъдете !"
-
 #: cogs/fun.py:309
 msgid "Husbando Rating Device!"
 msgstr "Устройство за оценяване на съпружествеността"
-
 #: cogs/fun.py:315 cogs/fun.py:330 cogs/fun.py:345 cogs/fun.py:373
 msgid "Requested by {author}"
 msgstr "Пожелано от {author}"
-
 #: cogs/fun.py:323
 msgid ""
 "Checks pp size of mentioned member.\n"
-"        If user is not mentioned, this will show author's pp size"
+"If user is not mentioned, this will show author's pp size"
 msgstr ""
-"Вижте размера на pp-то на споменатия потребител. \n"
+"Вижте размера на pp-то на споменатия потребител.\n"
 "Ако не е споменат такъв, то тази команда ще покаже размера на лицето, което "
 "е изпратило командата."
 
 #: cogs/fun.py:338
 msgid ""
 "Check rizz of mentioned member.\n"
-"        If user is not mentioned, this will show author's rizz"
+"If user is not mentioned, this will show author's rizz"
 msgstr ""
-"Вижте rizz-а на споменатия потребител. \n"
+"Вижте rizz-а на споменатия потребител.\n"
 "Ако не е споменат такъв, то тази команда ще покаже rizz-а та лицето, което е "
 "изпратило командата."
 
 #: cogs/fun.py:353
 msgid ""
-"We have seen magic mirror in many story books where it tells u who is the "
+"We have seen magic mirror in many story books where it tells u who is the\n"
 "most beautiful person in this world,\n"
-"        Sameway here Roku will act as the magic mirror and u can ask any "
+"Sameway here Roku will act as the magic mirror and u can ask any "
 "question like `ro who is most beautiful person this server.`\n"
-"        And it will who is the one among you."
+"And it will who is the one among you."
 msgstr ""
 "Виждали сме магическо огледало в много книжки с приказки, където то ни казва "
 "кой е най-красивият човек на този свят.\n"
 "По същия начин и тук Roku ще действа като магическо огледало и можете да "
-"зададете всеки въпрос, като например `ro whoе най-красивият човек на този "
+"зададете всеки въпрос, като например `ro who е най-красивият човек на този "
 "сървър?`.\n"
 "И то ще покаже кой е сред вас. "
 
@@ -201,4 +198,3 @@ msgstr "Показва любовта между 2 лица."
 #: cogs/fun.py:417
 msgid "Love between {user1} and {user2} is **{love_percent}%**"
 msgstr "Любовта между {user1} и {user2} е **{love_percent}%**"
-
