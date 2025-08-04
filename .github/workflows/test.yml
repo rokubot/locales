@@ -2,14 +2,8 @@ name: Verify Translations
 
 on:
   push:
-    paths:
-      - locales/**
-      - tests/**
-      - pyproject.toml
   pull_request:
-    paths:
-      - locales/**
-      - tests/**
+  workflow_dispatch:
 
 jobs:
   test:
