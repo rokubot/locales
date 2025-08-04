@@ -17,7 +17,7 @@ msgstr ""
 
 #: cogs/lvl/__init__.py:21
 msgid ""
-"Reward members with xp for talking  and even give roles at milestones\n"
+"Reward members for talking with xp and even give roles at milestones\n"
 "    **To enable leveling, use `ro enable leveling` command.**\n"
 "    "
 msgstr ""

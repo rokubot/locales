@@ -73,15 +73,15 @@ msgstr ""
 msgid "No tasks found. "
 msgstr "No se encontraron tareas."
 
-#: cogs/util/__init__.py:150
+#: cogs/util/__init__.py:153
 msgid "Add a task by `{prefix}todo add`. "
 msgstr "Agrega una tarea utilizando `{prefix}todo add`. "
 
-#: cogs/util/__init__.py:151 cogs/util/__init__.py:166
+#: cogs/util/__init__.py:154 cogs/util/__init__.py:170
 msgid "For more help on this command,type `{prefix}help todo`"
 msgstr "Para obtener más ayuda con este comando, escribe `{prefix}help todo`"
 
-#: cogs/util/__init__.py:159
+#: cogs/util/__init__.py:163
 msgid ""
 "A todo list.\n"
 "        Helps in keeping tracks of tasks or things to do."
@@ -89,16 +89,16 @@ msgstr ""
 "Una lista de pendientes. \n"
 "        Ayuda manteniendo un seguimiento de tareas o cosas pendientes. "
 
-#: cogs/util/__init__.py:165
+#: cogs/util/__init__.py:169
 msgid "No tasks found. Add a task by `{prefix}todo add`. "
 msgstr "No se encontraron tareas. Agrega una tarea utilizando `{prefix}todo add`. "
 
-#: cogs/util/__init__.py:174
+#: cogs/util/__init__.py:178
 msgid "Add tasks to todo list"
 msgstr "Agrega tareas a la lista de pendientes. "
 
-#: cogs/util/__init__.py:180 cogs/util/__init__.py:232
-msgid "{tick} Added the task to todo list "
+#: cogs/util/__init__.py:184
+msgid "{tick} Added the task to todo list"
 msgstr "{tick} Tarea agregada a lista de pendientes."
 
 #: cogs/util/__init__.py:187
@@ -160,6 +160,11 @@ msgstr "**Patreon Diamante** - cantidad ilimitada de cosas en lista de pendiente
 #: cogs/util/__init__.py:228
 msgid "https://patreon.com/rokubot"
 msgstr "https://patreon.com/rokubot"
+
+#: cogs/util/__init__.py:248
+#, python-brace-format
+msgid "{config.tick} Added the task to todo list "
+msgstr "{config.tick} Tarea agregada a lista de pendientes. "
 
 #: cogs/util/__init__.py:236
 msgid "Remove things from todo list"

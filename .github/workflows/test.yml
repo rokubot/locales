@@ -1,0 +1,30 @@
+name: Verify Translations
+
+on:
+  push:
+    paths:
+      - locales/**
+      - tests/**
+      - pyproject.toml
+  pull_request:
+    paths:
+      - locales/**
+      - tests/**
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+
+      - name: Install tox
+        run: pip install tox
+
+      - name: Run translation checks with tox
+        run: tox
