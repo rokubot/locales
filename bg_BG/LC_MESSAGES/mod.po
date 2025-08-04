@@ -18,8 +18,7 @@ msgstr ""
 
 #: cogs/mod/__init__.py:22
 msgid "Keep your server safe with advanced moderation commands."
-msgstr ""
-"Пази Вашият сървър в безопасност с напреднали и модерни функции за модерация."
+msgstr "Пази Вашият сървър в безопасност с напреднали и модерни функции за модерация."
 
 #: cogs/mod/__init__.py:36
 msgid "Moderation commands are not available in DMs"
@@ -304,8 +303,8 @@ msgstr ""
 "Ако каналът не е зададен в командата, то тогава се променя бавният режим на "
 "канала, където се изпълнява командата.\n"
 "Формат на времето 2 ч, 3 мин, 2 сек. (h, m, s)\n"
-"Например: `ro slowmode 10s`\n
-**Забележка:** За да изключите бавният режим напишете `ro slowmode 0s`\n"
+"Например: `ro slowmode 10s`\n"
+"**Забележка:** За да изключите бавният режим напишете `ro slowmode 0s`"
 
 #: cogs/mod/__init__.py:495
 msgid ""
@@ -316,7 +315,6 @@ msgid ""
 "seconds.\n"
 "`{prefix}slowmode #roku-channel 0s` - turns slowmode off in #roku-channel.\n"
 msgstr ""
-"\n"
 "**__Примери:__** \n"
 "`{prefix}slowmode 4h` - задава бавния режим на текущия канал на 4 часа.\n"
 "`{prefix}slowmode 0s` - изключва бавния режим в текущия канал.\n"
