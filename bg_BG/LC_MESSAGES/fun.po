@@ -187,7 +187,7 @@ msgstr "Питай нещо смислено, идиот :unamused:"
 
 #: cogs/fun.py:383
 msgid "Creates a tinder matching profile of two mentioned user"
-msgstr "Създайге Tinder профил в съвкупност от два споменати потребителя"
+msgstr "Създайте Tinder профил в съвкупност от два споменати потребителя"
 
 #: cogs/fun.py:385
 msgid "You can't match two same users, try matching two different users"
