@@ -35,10 +35,11 @@ msgid "Type the **second (bottom) part** in the chat below"
 msgstr "Напишете **втората (най-долната) част** по-долу в чата"
 
 #: cogs/fun.py:86
+#, docstring
 msgid ""
 "8ball command\n"
-"        **Disclaimer:** Don't rely on bots response. Its just random\n"
-"        "
+"        **Disclaimer:** Don't rely on bots response. Its just random\n"
+"        "
 msgstr ""
 "8ball команда\n"
 "**Внимание:** Не разчитайте на отговора на бота. Той е разнообразен и "
@@ -49,12 +50,12 @@ msgid "{mention}, {response}"
 msgstr "{mention}, {response}"
 
 #: cogs/fun.py:119
+#, docstring
 msgid ""
 "Magik filter of avatar\n"
-"        If user is not mentioned, shows the avatar of the person who used "
-"the command\n"
+"        If user is not mentioned, shows the avatar of the person who used the command\n"
 "\n"
-"        **Powered by Nekobot.xyz**"
+"        **Powered by Nekobot.xyz**"
 msgstr ""
 "Magik филтър върху аватара\n"
 "Ако потребителят не е споменат, се показва аватарът на лицето, използвало "
@@ -63,10 +64,11 @@ msgstr ""
 "**Задвижвано от Nekobot.xyz** "
 
 #: cogs/fun.py:138
+#, docstring
 msgid ""
 "Shows the mention person as trash,\n"
-"        It's a fun command , so don't take it seriously\n"
-"        "
+"        It's a fun command , so don't take it seriously\n"
+"        "
 msgstr ""
 "Показва споменатия потребител като боклук,\n"
 "Командата е само за забавление, така че не трябва да я приемате на сериозно"
@@ -76,9 +78,10 @@ msgid "Triggers the User"
 msgstr "Тригърва Потребителя"
 
 #: cogs/fun.py:161
+#, docstring
 msgid ""
 "Creates a wanted poster of mentioned user with a random price\n"
-"        If a user is not mentioned, create wanted poster of you"
+"        If a user is not mentioned, create wanted poster of you"
 msgstr ""
 "Създава плакат от типа \"издирва се\"  със споменатият потребител и цена, "
 "която е рандомизирана.\n"
@@ -93,10 +96,11 @@ msgid "Shows 5 dominant colors of your profile picture"
 msgstr "Показва 5-те от най-открояващите цветове на профилната Ви снимка"
 
 #: cogs/fun.py:193
+#, docstring
 msgid ""
 "Converts your text into some cool images\n"
 "\n"
-"        Powered by FlamingText"
+"        Powered by FlamingText"
 msgstr ""
 "Превръща Вашият текст в готини картини\n"
 "Възможно чрез FlamingText"
@@ -106,20 +110,22 @@ msgid "Gives Charcoal effect your profile picture"
 msgstr "Слага ефект \"Въглен\" към профилната Ви снимка."
 
 #: cogs/fun.py:219
+#, docstring
 msgid ""
 "Make people say stuff\n"
-"        Fake chat screenshot image\n"
+"        Fake chat screenshot image\n"
 "\n"
-"        **Powered by Dagpi**"
+"        **Powered by Dagpi**"
 msgstr ""
 "Карайте хората да казват неща\n"
 "Фейква скирншот на чата\n"
 "**Подсилено от Dagpi**"
 
 #: cogs/fun.py:237
+#, docstring
 msgid ""
 "Waifu rating Device\n"
-"        Shows how much of a sweet waifu you can be!"
+"        Shows how much of a sweet waifu you can be!"
 msgstr ""
 "Устройство за рейтинг на Waifu-стта Ви\n"
 "Показва колко сладко waifu можете да бъдете !"
@@ -129,43 +135,48 @@ msgid "Brings random meme from reddit"
 msgstr "Показва разнообразно меме от Reddit"
 
 #: cogs/fun.py:298
+#, docstring
 msgid ""
 "Husband rating Device\n"
-"Shows how much of a cool husband you can be!"
+"        Shows how much of a cool husband you can be!"
 msgstr ""
 "Устройство за оценка на Съпруг\n"
 "Показва колко готин съпруг можете да бъдете !"
+
 #: cogs/fun.py:309
 msgid "Husbando Rating Device!"
 msgstr "Устройство за оценяване на съпружествеността"
+
 #: cogs/fun.py:315 cogs/fun.py:330 cogs/fun.py:345 cogs/fun.py:373
 msgid "Requested by {author}"
 msgstr "Пожелано от {author}"
+
 #: cogs/fun.py:323
+#, docstring
 msgid ""
 "Checks pp size of mentioned member.\n"
-"If user is not mentioned, this will show author's pp size"
+"        If user is not mentioned, this will show author's pp size"
 msgstr ""
 "Вижте размера на pp-то на споменатия потребител.\n"
 "Ако не е споменат такъв, то тази команда ще покаже размера на лицето, което "
 "е изпратило командата."
 
 #: cogs/fun.py:338
+#, docstring
 msgid ""
 "Check rizz of mentioned member.\n"
-"If user is not mentioned, this will show author's rizz"
+"        If user is not mentioned, this will show author's rizz"
 msgstr ""
 "Вижте rizz-а на споменатия потребител.\n"
 "Ако не е споменат такъв, то тази команда ще покаже rizz-а та лицето, което е "
 "изпратило командата."
 
 #: cogs/fun.py:353
+#, docstring
 msgid ""
-"We have seen magic mirror in many story books where it tells u who is the\n"
-"most beautiful person in this world,\n"
-"Sameway here Roku will act as the magic mirror and u can ask any "
-"question like `ro who is most beautiful person this server.`\n"
-"And it will who is the one among you."
+"We have seen magic mirror in many story books where it tells u who is the most beautiful person in this world,\n"
+"        Sameway here Roku will act as the magic mirror and u can ask any question like `ro who is most beautiful person this server.`\n"
+"        And it will who is the one among you."
 msgstr ""
 "Виждали сме магическо огледало в много книжки с приказки, където то ни казва "
 "кой е най-красивият човек на този свят.\n"
