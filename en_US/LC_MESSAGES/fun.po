@@ -1,0 +1,178 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-08-04 21:13+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.4.2\n"
+
+#: cogs/fun.py:24
+#, docstring
+msgid "Have a good laugh with everyone in the server"
+msgstr ""
+
+#: cogs/fun.py:59
+#, docstring
+msgid "Helps u make anime drake meme in an interactive way"
+msgstr ""
+
+#: cogs/fun.py:64
+msgid "Type the **first (top) part** in the chat below"
+msgstr ""
+
+#: cogs/fun.py:66 cogs/fun.py:74
+msgid "Type the **second (bottom) part** in the chat below"
+msgstr ""
+
+#: cogs/fun.py:86
+#, docstring
+msgid ""
+"8ball command\n"
+"        **Disclaimer:** Don't rely on bots response. Its just random\n"
+"        "
+msgstr ""
+
+#: cogs/fun.py:114
+msgid "{mention}, {response}"
+msgstr ""
+
+#: cogs/fun.py:119
+#, docstring
+msgid ""
+"Magik filter of avatar\n"
+"        If user is not mentioned, shows the avatar of the person who used the command\n"
+"\n"
+"        **Powered by Nekobot.xyz**"
+msgstr ""
+
+#: cogs/fun.py:138
+#, docstring
+msgid ""
+"Shows the mention person as trash,\n"
+"        It's a fun command , so don't take it seriously\n"
+"        "
+msgstr ""
+
+#: cogs/fun.py:150
+#, docstring
+msgid "Triggers the User"
+msgstr ""
+
+#: cogs/fun.py:161
+#, docstring
+msgid ""
+"Creates a wanted poster of mentioned user with a random price\n"
+"        If a user is not mentioned, create wanted poster of you"
+msgstr ""
+
+#: cogs/fun.py:172
+#, docstring
+msgid "Turns you into a stone"
+msgstr ""
+
+#: cogs/fun.py:183
+#, docstring
+msgid "Shows 5 dominant colors of your profile picture"
+msgstr ""
+
+#: cogs/fun.py:193
+#, docstring
+msgid ""
+"Converts your text into some cool images\n"
+"\n"
+"        Powered by FlamingText"
+msgstr ""
+
+#: cogs/fun.py:208
+#, docstring
+msgid "Gives Charcoal effect your profile picture"
+msgstr ""
+
+#: cogs/fun.py:219
+#, docstring
+msgid ""
+"Make people say stuff\n"
+"        Fake chat screenshot image\n"
+"\n"
+"        **Powered by Dagpi**"
+msgstr ""
+
+#: cogs/fun.py:237
+#, docstring
+msgid ""
+"Waifu rating Device\n"
+"        Shows how much of a sweet waifu you can be!"
+msgstr ""
+
+#: cogs/fun.py:278
+#, docstring
+msgid "Brings random meme from reddit"
+msgstr ""
+
+#: cogs/fun.py:298
+#, docstring
+msgid ""
+"Husband rating Device\n"
+"        Shows how much of a cool husband you can be!"
+msgstr ""
+
+#: cogs/fun.py:309
+msgid "Husbando Rating Device!"
+msgstr ""
+
+#: cogs/fun.py:315 cogs/fun.py:330 cogs/fun.py:345 cogs/fun.py:373
+msgid "Requested by {author}"
+msgstr ""
+
+#: cogs/fun.py:323
+#, docstring
+msgid ""
+"Checks pp size of mentioned member.\n"
+"        If user is not mentioned, this will show author's pp size"
+msgstr ""
+
+#: cogs/fun.py:338
+#, docstring
+msgid ""
+"Check rizz of mentioned member.\n"
+"        If user is not mentioned, this will show author's rizz"
+msgstr ""
+
+#: cogs/fun.py:353
+#, docstring
+msgid ""
+"We have seen magic mirror in many story books where it tells u who is the most beautiful person in this world,\n"
+"        Sameway here Roku will act as the magic mirror and u can ask any question like `ro who is most beautiful person this server.`\n"
+"        And it will who is the one among you."
+msgstr ""
+
+#: cogs/fun.py:362
+msgid "Don't ask such long questions"
+msgstr ""
+
+#: cogs/fun.py:379
+msgid "Ask something meaningful , Idiot :unamused:"
+msgstr ""
+
+#: cogs/fun.py:383
+#, docstring
+msgid "Creates a tinder matching profile of two mentioned user"
+msgstr ""
+
+#: cogs/fun.py:385
+msgid "You can't match two same users, try matching two different users"
+msgstr ""
+
+#: cogs/fun.py:396
+#, docstring
+msgid "Shows the love between 2 persons."
+msgstr ""
+
+#: cogs/fun.py:417
+msgid "Love between {user1} and {user2} is **{love_percent}%**"
+msgstr ""
