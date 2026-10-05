@@ -34,10 +34,10 @@ msgstr "Автоматично премахване от временният з
 
 #: cogs/mod/__init__.py:125 cogs/mod/__init__.py:158
 msgid ""
-"**<a:blloading:731862370380546069> Creating the role and updating the role. "
+"**<a:blloading:1410552864849530931> Creating the role and updating the role. "
 "This may take a while...**"
 msgstr ""
-"**<a:blloading:731862370380546069> Ролята е в процес на създаване и "
+"**<a:blloading:1410552864849530931> Ролята е в процес на създаване и "
 "актуализирането ѝ тече. Това може да отнеме известно време...**"
 
 #: cogs/mod/__init__.py:136
@@ -575,10 +575,10 @@ msgstr ""
 
 #: cogs/mod/__init__.py:754 cogs/mod/__init__.py:929
 msgid ""
-"**<a:blloading:731862370380546069> Updating the permissions.. This may take "
+"**<a:blloading:1410552864849530931> Updating the permissions.. This may take "
 "a while..**"
 msgstr ""
-"**<a:blloading:731862370380546069> Разрешенията се обновяват... Това може да "
+"**<a:blloading:1410552864849530931> Разрешенията се обновяват... Това може да "
 "отнеме известно време..**"
 
 #: cogs/mod/__init__.py:757

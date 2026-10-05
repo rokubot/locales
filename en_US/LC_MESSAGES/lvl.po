@@ -126,7 +126,7 @@ msgid "Shows server level (rank) leaderboard"
 msgstr ""
 
 #: cogs/lvl/__init__.py:363
-msgid "<a:blloading:731862370380546069> loading"
+msgid "<a:blloading:1410552864849530931> loading"
 msgstr ""
 
 #: cogs/lvl/__init__.py:394

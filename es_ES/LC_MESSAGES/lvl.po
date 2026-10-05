@@ -126,8 +126,8 @@ msgid "Shows server level (rank) leaderboard"
 msgstr "Muestra tabla de clasificación de niveles del servidor (rango). "
 
 #: cogs/lvl/__init__.py:363
-msgid "<a:blloading:731862370380546069> loading"
-msgstr "<a:blloading:731862370380546069> cargando"
+msgid "<a:blloading:1410552864849530931> loading"
+msgstr "<a:blloading:1410552864849530931> cargando"
 
 #: cogs/lvl/__init__.py:394
 msgid "Set where I should send leveling messages"
